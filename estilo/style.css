@@ -67,8 +67,9 @@ section.imagem{
     background-color: rgb(51, 51, 51);
     color: white;
 }
+
 section.imagem > p{
-    width: 400px;
+    max-width: 100vw;
     background-color: rgba(0, 0, 0, 0.253);
 }
 
